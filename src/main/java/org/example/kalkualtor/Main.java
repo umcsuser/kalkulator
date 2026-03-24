@@ -9,10 +9,7 @@ public class Main {
     public static double add(double a, double b) {
         return a + b;
     }
-    public static double add2(double a, double b) {
-        return a + b;
-    }
-    public static double add3(double a, double b, double c) {
-        return a + b + c;
+    public static int sub(int a, int b) {
+        return a - b;
     }
 }
